@@ -75,31 +75,50 @@ on applications in robotic manipulation, medical imaging, and surgical robotics.
 
 ## Selected Awards
 
+`05/2020`
+**Best Graduate Project Award**, *Computer Integrated Surgical Systems and Technology* course,
+*Johns Hopkins University*, USA.
+
+`04/2020`
+**COVID-19 Dataset Award**, *Kaggle*
+- For our county-level dataset in .
+
+
 ## Publications
 
-[2]B. Killeen et al., “A County-level Dataset for Informing the United States’ Response to COVID-19,” arXiv:2004.00756 [physics, q-bio], Apr. 2020, Accessed: Apr. 02, 2020. [Online]. Available: http://arxiv.org/abs/2004.00756.
-[3]J. Y. Wu et al., “Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in 1,417 U.S. Counties,” medRxiv, p. 2020.05.31.20118687, Jun. 2020, doi: 10.1101/2020.05.31.20118687.
-[4]G. W. Burr and B. Killeen, “Efficient Processing Convolutional Neural Network Layers using Analog-Memory-Based Hardware,” P201804196US02.
-[5]S. Ambrogio et al., “Equivalent-accuracy accelerated neural-network training using analogue memory,” Nature, vol. 558, no. 7708, p. 60, Jun. 2018, doi: 10.1038/s41586-018-0180-5.
-[6]X. Liu et al., “Extremely Dense Point Correspondences using a Learned Feature Descriptor,” Jun. 2020, Accessed: Mar. 04, 2020. [Online]. Available: http://arxiv.org/abs/2003.00619.
-[7]C. Gao et al., “Generalizing Spatial Transformers to Projective Geometry with Applications to 2D/3D Registration,” arXiv:2003.10987 [cs], Mar. 2020, Accessed: Mar. 25, 2020. [Online]. Available: http://arxiv.org/abs/2003.10987.
-
-
-K. R. Landry\*, I. Coutand, **D. M. Whipp**, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
-
-## Peer-reviewed Journal Articles
+### Peer-reviewed Journal Articles
 
 `2020`
-A. Hundt, **B. D. Killeen**, H Kwon, C Paxton, GD Hager. “‘Good Robot!’: Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer,” IEEE Robotics and Automation Letters, vol. 5, no. 4, pp. 6724–6731, Oct. 2020, doi: 10.1109/LRA.2020.3015448.
+A. Hundt, **B. D. Killeen**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer. *IEEE Robotics and Automation Letters*, vol. 5, no. 4, pp. 6724–6731, Oct. 2020. doi: [10.1109/LRA.2020.3015448](https://dx.doi.org/10.1109/LRA.2020.3015448).
 
 `2018`
-S. Ambrogio, P. Narayanan, H. Tsai, R. M. Shelby, I. Boybat, C. di Nolfo, S. Sidler, M. Giordano, M. Bodini, N. Farinha, **B. D. Killeen**, C. Cheng, Y. Jaoudi, and G. W. Burr. Equivalent-accuracy accelerated neural-network training using analogue memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018, doi: [10.1038/s41586-018-0180-5](https://dx.doi.org/10.1038/s41586-018-0180-5).
+S. Ambrogio, P. Narayanan, H. Tsai, R. M. Shelby, I. Boybat, C. di Nolfo, S. Sidler, M. Giordano, M. Bodini, N. Farinha, **B. D. Killeen**, C. Cheng, Y. Jaoudi, G. W. Burr. Equivalent-accuracy accelerated neural-network training using analogue memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018. doi: [10.1038/s41586-018-0180-5](https://dx.doi.org/10.1038/s41586-018-0180-5).
 
+### Peer-reviewed Conference Papers
 
+C. Gao, X. Liu, W. Gu, **B. D. Killeen**, M. Armand, R. Taylor, M. Unberath. Generalizing
+Spatial Transformers to Projective Geometry with Applications to 2D/3D
+Registration. *MICCAI* (to appear), 2020.
 
-## Peer-reviewed Conference Papers
+X. Liu, Y. Zhang, B. Killeen, M. Ishii, G. Hager, R. Taylor, M. Unberath. Extremely Dense Point
+Correspondences using a Learned Feature Descriptor. *Proceedings of the IEEE/CVF Conference on
+Computer Vision and Pattern Recognition*, pp. 4847-4856, 2020.
 
-## Pre-prints
+### Preprints
+
+`2020`
+[P-2] J. Y. Wu\*, **B. D. Killeen**\*, P. Nikutta, M. Thies, A. Zapaishchykova, S. Chakraborty,
+M. Unberath Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in
+1,417 U.S. Counties. *medRxiv preprint*, Jun. 2020, doi:
+[10.1101/2020.05.31.20118687](https://dx.doi.org/10.1101/2020.05.31.20118687).
+- **\*Joint first authors.**
+
+[P-1] **B. D. Killeen**, J. Y. Wu, K. Shah, A. Zapaishchykova, P. Nikutta, A. Tamhane, S. Chakraborty, J. Wei, T. Gao, M. Thies,  M. Unberath. A County-level Dataset for Informing the United States’ Response to COVID-19. *arXiv preprint*, 2020, [arXiv:2004.00756](http://arxiv.org/abs/2004.00756).
+
+### Patents
+
+G. W. Burr and *B. D.* Killeen, Efficient Processing Convolutional Neural Network Layers using
+Analog-Memory-Based Hardware. P201804196US02.
 
 ## Teaching
 
