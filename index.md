@@ -41,7 +41,7 @@ on applications in robotic manipulation, medical imaging, and surgical robotics.
 - Thesis: *Starting from Scratch: Deep Learning for Novel Scientific Image Analysis*
 - With [Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/).
 
-## Experience
+## Research <br/> Experience
 
 `08/2020 - present`
 **Research assistant**, *Department of Computer Science, Johns Hopkins University*, Baltimore, MD, USA.
@@ -95,7 +95,7 @@ on applications in robotic manipulation, medical imaging, and surgical robotics.
 My publication list is also available on 
 [Google Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl).
 
-### Peer-reviewed Journal Articles
+### Peer-reviewed <br/> Journal Articles
 
 `J-2` 
 A. Hundt, **B. D. Killeen**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient
@@ -110,7 +110,7 @@ G. W. Burr. Equivalent-accuracy accelerated neural-network training using analog
 memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018. doi:
 [10.1038/s41586-018-0180-5](https://dx.doi.org/10.1038/s41586-018-0180-5).
 
-### Peer-reviewed Conference Papers
+### Peer-reviewed <br/> Conference Papers
 
 `C-2`
 C. Gao, X. Liu, W. Gu, **B. D. Killeen**, M. Armand, R. Taylor, M. Unberath. Generalizing
@@ -210,7 +210,7 @@ to handle the homework assignments; both were very helpful."
 
 ## Creative Interests
 
-- **Blog**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog).
-- **Science Fiction**.
+- **Blog**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
+- **Science Fiction**: novel in progress.
 
 <br/>Last updated: September 2020<br/><br/>
