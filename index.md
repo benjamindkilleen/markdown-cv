@@ -9,7 +9,7 @@ Department of Computer Science<br/>
 3400 N Charles St<br/>
 Baltimore, MD 21218, USA<br/>
 
-<a href="killeen@jhu.edu">killeen@jhu.edu</a>
+<a href="mailto:killeen@jhu.edu">killeen@jhu.edu</a>
 
 <div id="webaddress">
   <a href="https://benjamindkilleen.com"><i class="fas fa-home"></i> benjamindkilleen.com</a> - 
@@ -129,7 +129,7 @@ J. Y. Wu\*, **B. D. Killeen**\*, P. Nikutta, M. Thies, A. Zapaishchykova, S. Cha
 M. Unberath Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in
 1,417 U.S. Counties. *medRxiv preprint*, Jun. 2020, doi:
 [10.1101/2020.05.31.20118687](https://dx.doi.org/10.1101/2020.05.31.20118687).
-- **\*Joint first authors.**
+- **\*Equal contribution.**
 
 `M-1`
 **B. D. Killeen**, J. Y. Wu, K. Shah, A. Zapaishchykova, P. Nikutta, A. Tamhane, S. Chakraborty,
@@ -139,7 +139,7 @@ Response to COVID-19. *arXiv preprint*, 2020, [arXiv:2004.00756](http://arxiv.or
 ### Patents
 
 `P-1`
-G. W. Burr, and **B. D. Killeen**. 2020. Efficient Processing of Convolutional Neural Network Layers Using Analog-memory-based Hardware. 20200117986, filed March 25, 2019, and issued April 16, 2020. https://uspto.report/patent/app/20200117986.
+G. W. Burr and **B. D. Killeen**. 2020. Efficient Processing of Convolutional Neural Network Layers Using Analog-memory-based Hardware. 20200117986, filed March 25, 2019, and issued April 16, 2020. https://uspto.report/patent/app/20200117986.
 
 ## Teaching
 
@@ -149,6 +149,7 @@ G. W. Burr, and **B. D. Killeen**. 2020. Efficient Processing of Convolutional N
 
 `03/2019 - 06/2019`
 **Machine Learning and Large Scale Data Analysis**, *Department of Computer Science, University of Chicago*, Chicago, IL, USA
+- With Prof. [Yali Amit](https://stat.uchicago.edu/people/profile/yali-amit/).
 - Wrote supplementary course material and held weekly lab sessions. Link: [github.com/benjamindkilleen/lsda](https://github.com/benjamindkilleen/lsda)
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://github.com/benjamindkilleen/lsda"><i class="fab fa-github"></i></a> -->
@@ -156,9 +157,7 @@ G. W. Burr, and **B. D. Killeen**. 2020. Efficient Processing of Convolutional N
 *Selected review*: "Ben was incredibly patient during office hours and always responsive to
 student questions. In addition, he often presented demos during office hours or showed easier ways
 to handle the homework assignments; both were very helpful."
-<!-- - Read more reviews at [benjamindkilleen.com/teaching/reviews](https://benjamindkilleen.com/teaching/reviews) -->
-
-<!-- "Benjamin is very knowledgeable and is good at explaining concepts. He was friendly, professional, respectful and mature. He made himself available, showed up consistently on time, and prepared helpful and easy-to-follow mini-lectures for the lab sessions. He was the TA I felt most comfortable working with and the one I learned the most from." -->
+- More reviews available at [benjamindkilleen.com/teaching/2019-spring-lsda](https://benjamindkilleen.com/teaching/2019-spring-lsda)
 
 ### Grading
 
@@ -167,6 +166,13 @@ to handle the homework assignments; both were very helpful."
 - \- Scientific Visualization
 - \- Introduction to Computer Science I
 - \- Introduction to Computer Science II
+
+### Tutoring
+
+`06/2020 - present`
+**Topics in Machine Learning**, Baltimore, MD, USA.
+- I tutor young people (middle- and high-school age) who are interested in CS and ML.
+- More info at [benjamindkilleen.com/teaching/2020-tutoring](benjamindkilleen.com/teaching/2020-tutoring).
 
 <!-- 
 ## Supervision
@@ -178,6 +184,12 @@ to handle the homework assignments; both were very helpful."
 `12/2019-03/2020`
 **Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA.
 -->
+
+<!-- ## Service -->
+
+<!-- `2019` -->
+<!-- **Volunteer Instructor**, [*CompileHer*](https://compileher.com/), Chicago, IL, USA. -->
+
 
 ## Selected Coursework
 
@@ -210,8 +222,8 @@ to handle the homework assignments; both were very helpful."
 
 ## Creative Interests
 
-- **Blog**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
-- **Science Fiction**: novel in progress.
+- **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
+- **Science Fiction**: novel available by request.
 
 ## Metadata
 
