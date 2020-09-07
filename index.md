@@ -208,8 +208,9 @@ to handle the homework assignments; both were very helpful."
 
 <!-- ## Memberships -->
 
-<!-- ## Interests and Hobbies -->
+## Creative Interests
 
-<!-- **Creative Writing** -->
+- **Blog**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog).
+- **Science Fiction**.
 
 <br/>Last updated: September 2020<br/><br/>
