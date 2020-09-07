@@ -213,4 +213,9 @@ to handle the homework assignments; both were very helpful."
 - **Blog**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
 - **Science Fiction**: novel in progress.
 
+## Metadata
+
+Also available as a PDF at [benjamindkilleen.com/files/cv.pdf](benjamindkilleen.com/files/cv.pdf).
+
 <br/>Last updated: September 2020<br/><br/>
+
