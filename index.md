@@ -215,7 +215,8 @@ to handle the homework assignments; both were very helpful."
 
 ## Metadata
 
-Also available as a PDF at [benjamindkilleen.com/files/cv.pdf](benjamindkilleen.com/files/cv.pdf).
+This document is available for download at
+[benjamindkilleen.com/files/cv.pdf](https://benjamindkilleen.com/files/cv.pdf).
 
 <br/>Last updated: September 2020<br/><br/>
 
