@@ -80,45 +80,59 @@ on applications in robotic manipulation, medical imaging, and surgical robotics.
 *Johns Hopkins University*, USA.
 
 `04/2020`
-**COVID-19 Dataset Award**, *Kaggle*
-- For our county-level dataset in .
+[**COVID-19 Dataset Award**](https://www.kaggle.com/data/139140#796870), *Kaggle*
+- For our county-level dataset in [[M-1]](#preprints).
 
 
 ## Publications
 
+Also available on [my Google Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl).
+
 ### Peer-reviewed Journal Articles
 
-`2020`
-A. Hundt, **B. D. Killeen**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer. *IEEE Robotics and Automation Letters*, vol. 5, no. 4, pp. 6724–6731, Oct. 2020. doi: [10.1109/LRA.2020.3015448](https://dx.doi.org/10.1109/LRA.2020.3015448).
+`J-2` 
+A. Hundt, **B. D. Killeen**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient
+Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer. *IEEE Robotics and
+Automation Letters*, vol. 5, no. 4, pp. 6724–6731, Oct. 2020. doi:
+[10.1109/LRA.2020.3015448](https://dx.doi.org/10.1109/LRA.2020.3015448).
 
-`2018`
-S. Ambrogio, P. Narayanan, H. Tsai, R. M. Shelby, I. Boybat, C. di Nolfo, S. Sidler, M. Giordano, M. Bodini, N. Farinha, **B. D. Killeen**, C. Cheng, Y. Jaoudi, G. W. Burr. Equivalent-accuracy accelerated neural-network training using analogue memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018. doi: [10.1038/s41586-018-0180-5](https://dx.doi.org/10.1038/s41586-018-0180-5).
+`J-1` 
+S. Ambrogio, P. Narayanan, H. Tsai, R. M. Shelby, I. Boybat, C. di Nolfo, S. Sidler,
+M. Giordano, M. Bodini, N. Farinha, **B. D. Killeen**, C. Cheng, Y. Jaoudi,
+G. W. Burr. Equivalent-accuracy accelerated neural-network training using analogue
+memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018. doi:
+[10.1038/s41586-018-0180-5](https://dx.doi.org/10.1038/s41586-018-0180-5).
 
 ### Peer-reviewed Conference Papers
 
+`C-2`
 C. Gao, X. Liu, W. Gu, **B. D. Killeen**, M. Armand, R. Taylor, M. Unberath. Generalizing
 Spatial Transformers to Projective Geometry with Applications to 2D/3D
-Registration. *MICCAI* (to appear), 2020.
+Registration. *MICCAI* **(to appear)**, 2020.
 
-X. Liu, Y. Zhang, B. Killeen, M. Ishii, G. Hager, R. Taylor, M. Unberath. Extremely Dense Point
+`C-1`
+X. Liu, Y. Zhang, **B. Killeen**, M. Ishii, G. Hager, R. Taylor, M. Unberath. Extremely Dense Point
 Correspondences using a Learned Feature Descriptor. *Proceedings of the IEEE/CVF Conference on
 Computer Vision and Pattern Recognition*, pp. 4847-4856, 2020.
 
 ### Preprints
 
-`2020`
-[P-2] J. Y. Wu\*, **B. D. Killeen**\*, P. Nikutta, M. Thies, A. Zapaishchykova, S. Chakraborty,
+`M-2`
+J. Y. Wu\*, **B. D. Killeen**\*, P. Nikutta, M. Thies, A. Zapaishchykova, S. Chakraborty,
 M. Unberath Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in
 1,417 U.S. Counties. *medRxiv preprint*, Jun. 2020, doi:
 [10.1101/2020.05.31.20118687](https://dx.doi.org/10.1101/2020.05.31.20118687).
 - **\*Joint first authors.**
 
-[P-1] **B. D. Killeen**, J. Y. Wu, K. Shah, A. Zapaishchykova, P. Nikutta, A. Tamhane, S. Chakraborty, J. Wei, T. Gao, M. Thies,  M. Unberath. A County-level Dataset for Informing the United States’ Response to COVID-19. *arXiv preprint*, 2020, [arXiv:2004.00756](http://arxiv.org/abs/2004.00756).
+`M-1`
+**B. D. Killeen**, J. Y. Wu, K. Shah, A. Zapaishchykova, P. Nikutta, A. Tamhane, S. Chakraborty,
+J. Wei, T. Gao, M. Thies, M. Unberath. A County-level Dataset for Informing the United States’
+Response to COVID-19. *arXiv preprint*, 2020, [arXiv:2004.00756](http://arxiv.org/abs/2004.00756).
 
 ### Patents
 
-G. W. Burr and *B. D.* Killeen, Efficient Processing Convolutional Neural Network Layers using
-Analog-Memory-Based Hardware. P201804196US02.
+`P-1`
+G. W. Burr, and **B. D. Killeen**. 2020. Efficient Processing of Convolutional Neural Network Layers Using Analog-memory-based Hardware. 20200117986, filed March 25, 2019, and issued April 16, 2020. https://uspto.report/patent/app/20200117986.
 
 ## Teaching
 
@@ -149,6 +163,12 @@ felt most comfortable working with and the one I learned the most from."
 
 
 ## Selected Coursework
+
+
+## Projects
+
+
+## Memberships
 
 
 ## Interests
