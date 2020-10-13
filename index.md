@@ -3,6 +3,7 @@ layout: cv
 title: Benjamin D. Killeen's CV
 ---
 # Benjamin D. Killeen
+<br/>
 Ph.D. Student, Johns Hopkins University
 
 Department of Computer Science<br/>
@@ -24,11 +25,12 @@ Baltimore, MD 21218, USA<br/>
 
 ## Summary
 
-A Ph.D. Student at Johns Hopkins University, I am a member of the Advanced Robotics and Interests
+A Ph.D. Student at Johns Hopkins University, I am a member of the Advanced Robotics and
 Computationally Augmented Environments ([ARCADE](https://arcade.cs.jhu.edu/)) research group and
 the Computational Interaction and Robotics Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)). My
-research interests include computer vision, machine learning, and domain generalization, focusing
-on applications in robotic manipulation, medical imaging, and surgical robotics.
+research interests include computer vision, reinforcement learning, and domain generalization, with a
+focus on applications in robotic manipulation, medical imaging, and clinician-centered surgical
+robotics.
 
 ## Education
 
@@ -49,11 +51,12 @@ on applications in robotic manipulation, medical imaging, and surgical robotics.
 
 `08/2019 - 06/2020`
 **Research Assistant**, *Laboratory for Computational Sensing and Robotics, Johns Hopkins University*, Baltimore, MD, USA.
-- With [Gregory D. Hager](https://www.cs.jhu.edu/~hager), [Mathias Unberath](https://mathiasunberath.github.io), and [Russel Taylor](https://www.cs.jhu.edu/~rht/).
+- With [Gregory D. Hager](https://www.cs.jhu.edu/~hager), [Mathias
+  Unberath](https://mathiasunberath.github.io), and [Russel Taylor](https://www.cs.jhu.edu/~rht/).
 - Recipient: LCSR Fellowship for Outstanding Incoming Ph.D. Students.
 
 `03/2018 - 08/2019`
-**Research assistant**, *Department of Computer Science, University of Chicago*, Chicao, IL, USA.
+**Research assistant**, *Department of Computer Science, University of Chicago*, Chicago, IL, USA.
 - With [Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/).
 
 <!-- - Investigated object detection in image-based experiments for condensed matter physics. -->
@@ -71,7 +74,7 @@ on applications in robotic manipulation, medical imaging, and surgical robotics.
 
 `06/2017 - 08/2017`
 **Research Intern**, *IBM Research - Almaden*, San Jose, CA, USA.
-- With [Geoffry Burr](https://researcher.watson.ibm.com/researcher/view.php?person=us-gwburr).
+- With [Geoffrey Burr](https://researcher.watson.ibm.com/researcher/view.php?person=us-gwburr).
 
 ## Selected Honors
 
@@ -80,7 +83,7 @@ on applications in robotic manipulation, medical imaging, and surgical robotics.
 *Johns Hopkins University*, USA.
 
 `04/2020`
-[**COVID-19 Dataset Award**](https://www.kaggle.com/data/139140#796870), *Kaggle*
+[**COVID-19 Dataset Award**](https://www.kaggle.com/data/139140#796870), *Kaggle*.
 - For our county-level dataset in [[M-1]](#preprints).
 
 `12/2019`
@@ -88,15 +91,16 @@ on applications in robotic manipulation, medical imaging, and surgical robotics.
 *[Deep Learning](https://deep.cs.jhu.edu)* course, *Johns Hopkins University*, USA.
 - *Project:* *Enriching Unsupervised Feature Learning via Intermediate Subtasks.*
 - With [Michael Peven](https://scholar.google.com/citations?user=QQhzlS4AAAAJ&hl=en), Shaoyan Pan,
-  Matthew Pittman.
+  and Matthew Pittman.
 
 ## Publications
 
-My publication list is also available on 
-[Google Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl).
+My publication list is also available on [Google
+Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl). \*Asterisk indicates equal
+contribution.
 
 ### Peer-reviewed Journal Articles
-
+    
 `J-2` 
 A. Hundt, **B. D. Killeen**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient
 Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer. *IEEE Robotics and
@@ -115,7 +119,7 @@ memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018. doi:
 `C-2`
 C. Gao, X. Liu, W. Gu, **B. D. Killeen**, M. Armand, R. Taylor, M. Unberath. Generalizing
 Spatial Transformers to Projective Geometry with Applications to 2D/3D
-Registration. *MICCAI* **(to appear)**, 2020.
+Registrationc. *MICCAI*, 2020, [arxiv:2003.10987](https://arxiv.org/abs/2003.10987).
 
 `C-1`
 X. Liu, Y. Zhang, **B. Killeen**, M. Ishii, G. Hager, R. Taylor, M. Unberath. Extremely Dense Point
@@ -126,20 +130,20 @@ Computer Vision and Pattern Recognition*, pp. 4847-4856, 2020.
 
 `M-2`
 J. Y. Wu\*, **B. D. Killeen**\*, P. Nikutta, M. Thies, A. Zapaishchykova, S. Chakraborty,
-M. Unberath Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in
+M. Unberath. Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in
 1,417 U.S. Counties. *medRxiv preprint*, Jun. 2020, doi:
 [10.1101/2020.05.31.20118687](https://dx.doi.org/10.1101/2020.05.31.20118687).
-- **\*Equal contribution.**
 
 `M-1`
-**B. D. Killeen**, J. Y. Wu, K. Shah, A. Zapaishchykova, P. Nikutta, A. Tamhane, S. Chakraborty,
+**B. D. Killeen**\*, J. Y. Wu\*, K. Shah, A. Zapaishchykova, P. Nikutta, A. Tamhane, S. Chakraborty,
 J. Wei, T. Gao, M. Thies, M. Unberath. A County-level Dataset for Informing the United States’
 Response to COVID-19. *arXiv preprint*, 2020, [arXiv:2004.00756](http://arxiv.org/abs/2004.00756).
 
 ### Patents
 
-`P-1`
-G. W. Burr and **B. D. Killeen**. 2020. Efficient Processing of Convolutional Neural Network Layers Using Analog-memory-based Hardware. 20200117986, filed March 25, 2019, and issued April 16, 2020. https://uspto.report/patent/app/20200117986.
+`P-1` G. W. Burr and **B. D. Killeen**. 2020. Efficient Processing of Convolutional Neural Network
+Layers Using Analog-memory-based Hardware. 20200117986, filed March 25, 2019, and issued April
+16, 2020, [uspto.report/patent/app/20200117986](https://uspto.report/patent/app/20200117986).
 
 ## Teaching
 
@@ -150,7 +154,7 @@ G. W. Burr and **B. D. Killeen**. 2020. Efficient Processing of Convolutional Ne
 `03/2019 - 06/2019`
 **Machine Learning and Large Scale Data Analysis**, *Department of Computer Science, University of Chicago*, Chicago, IL, USA
 - With Prof. [Yali Amit](https://stat.uchicago.edu/people/profile/yali-amit/).
-- Wrote supplementary course material and held weekly lab sessions. Link: [github.com/benjamindkilleen/lsda](https://github.com/benjamindkilleen/lsda)
+- Wrote supplementary course material and held weekly lab sessions.
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://github.com/benjamindkilleen/lsda"><i class="fab fa-github"></i></a> -->
 
@@ -163,27 +167,24 @@ to handle the homework assignments; both were very helpful."
 
 `01/2019 - 08/2019`
 *Department of Computer Science, University of Chicago*, Chicago, IL, USA
-- \- Scientific Visualization
-- \- Introduction to Computer Science I
-- \- Introduction to Computer Science II
+- \- **Scientific Visualization**
+- \- **Introduction to Computer Science I**
+- \- **Introduction to Computer Science II**
 
 ### Tutoring
 
 `06/2020 - present`
-**Topics in Machine Learning**, Baltimore, MD, USA.
+**Topics in Computer Science, Machine Learning**, Baltimore, MD, USA.
 - I tutor young people (middle- and high-school age) who are interested in CS and ML.
 - More info at [benjamindkilleen.com/teaching/2020-tutoring](benjamindkilleen.com/teaching/2020-tutoring).
 
-<!-- 
 ## Supervision
 
-### Masters Students
+`08/2019 - present`
+**Shreya Chakraborty**, *Johns Hopkins University*, Baltimore, MD, USA.
 
-### Undergraduate Students
-
-`12/2019-03/2020`
+`12/2019 - 03/2020`
 **Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA.
--->
 
 <!-- ## Service -->
 
@@ -195,6 +196,8 @@ to handle the homework assignments; both were very helpful."
 
 ### Graduate
 
+- Theory of Computation
+- Parallel Programming
 - Nonlinear Optimization II
 - Computer Integrated Surgery II
 - Computer Integrated Surgery I 
@@ -218,16 +221,19 @@ to handle the homework assignments; both were very helpful."
 
 <!-- ## Projects -->
 
-<!-- ## Memberships -->
+## Memberships
 
-## Creative Interests
+`2020 - present`
+- IEEE Graduate Student Member
+
+## Interests
 
 - **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
 - **Science Fiction**: novel available by request.
 
 ## Metadata
 
-Available
+This document is available
 - \- online: [benjamindkilleen.com/markdown-cv](https://benjamindkilleen.com/markdown-cv/).
 - \- as a PDF: [benjamindkilleen.com/files/cv.pdf](https://benjamindkilleen.com/files/cv.pdf).
 
