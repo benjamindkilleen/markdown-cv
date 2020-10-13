@@ -243,5 +243,5 @@ Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: September 2020<br/><br/>
+<br/>Last updated: October 2020<br/><br/>
 
