@@ -39,7 +39,7 @@ robotics.
 - With [Mathias Unberath](https://mathiasunberath.github.io/) and [Gregory D. Hager](http://www.cs.jhu.edu/hager/).
 
 `09/2015 - 06/2019`
-**B.A., Computer Science with Honors, Physics Minor**, *University of Chicago*, Chicago, IL, USA.
+**B.A., Computer Science with Honors (Physics Minor)**, *University of Chicago*, Chicago, IL, USA.
 - Thesis: *Starting from Scratch: Deep Learning for Novel Scientific Image Analysis*
 - With [Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/).
 
@@ -145,6 +145,24 @@ Response to COVID-19. *arXiv preprint*, 2020, [arXiv:2004.00756](http://arxiv.or
 Layers Using Analog-memory-based Hardware. 20200117986, filed March 25, 2019, and issued April
 16, 2020, [uspto.report/patent/app/20200117986](https://uspto.report/patent/app/20200117986).
 
+## Selected Press
+
+`2020` 
+BBC. **"Dog Training Technique Helps Robot Learn and Other News."** *BBC News*. October
+30, 2020. Accessed October 31, 2020. [bbc.com/news/av/technology-54645279](https://www.bbc.com/news/av/technology-54645279).
+  
+Rosso, Cami. **"New AI Trains Robots like Dogs."** *Psychology Today*. October 28, 2020. Accessed
+October 28, 2020.
+[psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs](https://www.psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs).
+
+Heater, Brian. **"Teaching Robots through Positive Reinforcement."** *TechCrunch*. October
+26, 2020. Accessed October
+28, 2020. [techcrunch.com/2020/10/26/teaching-robots-through-positive-reinforcement/](https://techcrunch.com/2020/10/26/teaching-robots-through-positive-reinforcement/).
+  
+Rosen, Jill. **"Dog Training Methods Help JHU Teach Robots to Learn New Tricks."** The Johns
+Hopkins University Hub. The Johns Hopkins University, October
+26, 2020. [hub.jhu.edu/2020/10/26/positive-reinforcementfor-robots](https://hub.jhu.edu/2020/10/26/positive-reinforcementfor-robots/).
+
 ## Teaching
 
 <!-- Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel -->
@@ -186,10 +204,13 @@ to handle the homework assignments; both were very helpful."
 `12/2019 - 03/2020`
 **Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA.
 
-<!-- ## Service -->
+## Service
 
-<!-- `2019` -->
-<!-- **Volunteer Instructor**, [*CompileHer*](https://compileher.com/), Chicago, IL, USA. -->
+`2020 - present`
+**Graduate Student Committee Representative**, [*Laboratory for Computational Sensing and Robotics*](https://lcsr.jhu.edu/), Baltimore, MD, USA.
+
+`2019`
+**Volunteer Instructor**, [*CompileHer*](https://compileher.com/), Chicago, IL, USA.
 
 
 ## Selected Coursework
@@ -229,7 +250,7 @@ to handle the homework assignments; both were very helpful."
 ## Interests
 
 - **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
-- **Science Fiction**: novel available by request.
+- **Science Fiction**: manuscript available by request.
 
 ## Metadata
 
@@ -243,5 +264,6 @@ Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: October 2020<br/><br/>
+<br/>Last updated: November 2020<br/><br/>
 
+[<8;38;56m
