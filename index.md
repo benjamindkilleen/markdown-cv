@@ -212,6 +212,15 @@ to handle the homework assignments; both were very helpful."
 `2019`
 **Volunteer Instructor**, [*CompileHer*](https://compileher.com/), Chicago, IL, USA.
 
+### Journal Reviewer
+
+`2020`
+- \- Nature Scientific Data
+
+<!-- ### Conference Reviewer -->
+
+<!-- -  -->
+
 
 ## Selected Coursework
 
@@ -266,4 +275,3 @@ Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 <br/>Last updated: November 2020<br/><br/>
 
-[<8;38;56m
