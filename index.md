@@ -149,7 +149,7 @@ Layers Using Analog-memory-based Hardware. 20200117986, filed March 25, 2019, an
 
 `2020` 
 Dziarkach, Andrei. **"Details with Andrei Dziarkach."** *Voice of America*. November 21, 2020
-Accessed November 26, 2020. https://www.golosameriki.com/a/detali/5671254.html.
+Accessed November 26, 2020. [golosameriki.com/a/detali/5671254.html](https://www.golosameriki.com/a/detali/5671254.html).
 
 BBC. **"Dog Training Technique Helps Robot Learn and Other News."** *BBC News*. October
 30, 2020. Accessed October 31, 2020. [bbc.com/news/av/technology-54645279](https://www.bbc.com/news/av/technology-54645279).
