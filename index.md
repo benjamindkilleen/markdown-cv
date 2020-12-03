@@ -215,10 +215,10 @@ to handle the homework assignments; both were very helpful."
 `2019`
 **Volunteer Instructor**, [*CompileHer*](https://compileher.com/), Chicago, IL, USA.
 
-<!-- ### Journal Reviewer -->
+### Peer Review
 
-<!-- `2020` -->
-<!-- - \- Nature Scientific Data -->
+`12/2020`
+- \- Nature Scientific Data
 
 <!-- ### Conference Reviewer -->
 
