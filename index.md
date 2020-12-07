@@ -217,10 +217,11 @@ to handle the homework assignments; both were very helpful."
 
 ### Peer Review
 
-`12/2020`
-- \- Nature Scientific Data
+`2021`
+- \- Conference on Computer Vision and Pattern Recognition
 
-<!-- ### Conference Reviewer -->
+`2020`
+- \- Nature Scientific Data
 
 <!-- -  -->
 
