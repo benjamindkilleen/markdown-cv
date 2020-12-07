@@ -128,6 +128,12 @@ Computer Vision and Pattern Recognition*, pp. 4847-4856, 2020.
 
 ### Preprints
 
+`M-3`
+
+X. Liu\*, **B. D. Killeen**\*, A. Sinha, M. Ishii, G. Hager, R. Taylor, M. Unberath. Neighborhood
+Normalization for Robust Geometric Feature Learning. Submitted to *The IEEE/CVF Conference on
+Computer Vision and Pattern Recognition*. 2021.
+
 `M-2`
 J. Y. Wu\*, **B. D. Killeen**\*, P. Nikutta, M. Thies, A. Zapaishchykova, S. Chakraborty,
 M. Unberath. Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in
