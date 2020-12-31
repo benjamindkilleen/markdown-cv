@@ -207,7 +207,10 @@ to handle the homework assignments; both were very helpful."
 
 ## Supervision
 
-`08/2019 - present`
+`01/2020 - present`
+**Max Judish**, *Johns Hopkins University*, Baltimore, MD, USA.
+
+`08/2020 - 12/2020`
 **Shreya Chakraborty**, *Johns Hopkins University*, Baltimore, MD, USA.
 
 `12/2019 - 03/2020`
@@ -228,9 +231,6 @@ to handle the homework assignments; both were very helpful."
 
 `2020`
 - \- Nature Scientific Data
-
-<!-- -  -->
-
 
 ## Selected Coursework
 
@@ -266,7 +266,7 @@ to handle the homework assignments; both were very helpful."
 `2020 - present`
 - IEEE Graduate Student Member
 
-## Interests
+## Extracurricular
 
 - **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
 - **Science Fiction**: manuscript available by request.
