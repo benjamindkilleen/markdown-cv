@@ -19,18 +19,16 @@ Baltimore, MD 21218, USA<br/>
   <a href="https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl"><i class="fas fa-graduation-cap"></i> Benjamin D. Killeen</a> -
   <a href="https://orcid.org/0000-0003-2511-7929"><i class="ai ai-orcid"></i> 0000-0003-2511-7929</a> - 
   <a href="https://github.com/benjamindkilleen"><i class="fab fa-github"></i> benjamindkilleen</a> - 
-  <!-- <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - -->
   <a href="https://twitter.com/bdkilleen"><i class="fab fa-twitter"></i> @bdkilleen</a>
 </div>
 
 ## Summary
 
-A Ph.D. Student at Johns Hopkins University, I am a member of the Advanced Robotics and
-Computationally Augmented Environments ([ARCADE](https://arcade.cs.jhu.edu/)) research group and
-the Computational Interaction and Robotics Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)). My
-research interests include computer vision, reinforcement learning, and domain generalization, with a
-focus on applications in robotic manipulation, medical imaging, and clinician-centered surgical
-robotics.
+A Ph.D. Student at Johns Hopkins University, I am interested in intelligent surgical systems based
+on explorative computer vision and deep reinforcement learning that directly improve patient
+outcomes. I am a member of the Advanced Robotics and Computationally Augmented Environments
+([ARCADE](https://arcade.cs.jhu.edu/)) research group and the Computational Interaction and
+Robotics Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)).
 
 ## Education
 
@@ -100,16 +98,16 @@ Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl). \*Asterisk 
 contribution.
 
 ### Peer-reviewed Journal Articles
-    
+
 `J-2` 
-A. Hundt, **B. D. Killeen**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient
+A. Hundt, **B. Killeen**, H. Kwon, C. Paxton, GD Hager. "Good Robot!": Efficient
 Reinforcement Learning for Multi-Step Visual Tasks with Sim to Real Transfer. *IEEE Robotics and
 Automation Letters*, vol. 5, no. 4, pp. 6724–6731, Oct. 2020. doi:
 [10.1109/LRA.2020.3015448](https://dx.doi.org/10.1109/LRA.2020.3015448).
 
 `J-1` 
 S. Ambrogio, P. Narayanan, H. Tsai, R. M. Shelby, I. Boybat, C. di Nolfo, S. Sidler,
-M. Giordano, M. Bodini, N. Farinha, **B. D. Killeen**, C. Cheng, Y. Jaoudi,
+M. Giordano, M. Bodini, N. Farinha, **B. Killeen**, C. Cheng, Y. Jaoudi,
 G. W. Burr. Equivalent-accuracy accelerated neural-network training using analogue
 memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018. doi:
 [10.1038/s41586-018-0180-5](https://dx.doi.org/10.1038/s41586-018-0180-5).
@@ -159,14 +157,14 @@ Accessed November 26, 2020. [golosameriki.com/a/detali/5671254.html](https://www
 
 BBC. **"Dog Training Technique Helps Robot Learn and Other News."** *BBC News*. October
 30, 2020. Accessed October 31, 2020. [bbc.com/news/av/technology-54645279](https://www.bbc.com/news/av/technology-54645279).
-  
-Rosso, Cami. **"New AI Trains Robots like Dogs."** *Psychology Today*. October 28, 2020. Accessed
-October 28, 2020.
-[psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs](https://www.psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs).
 
-Heater, Brian. **"Teaching Robots through Positive Reinforcement."** *TechCrunch*. October
-26, 2020. Accessed October
-28, 2020. [techcrunch.com/2020/10/26/teaching-robots-through-positive-reinforcement/](https://techcrunch.com/2020/10/26/teaching-robots-through-positive-reinforcement/).
+<!-- Rosso, Cami. **"New AI Trains Robots like Dogs."** *Psychology Today*. October 28, 2020. Accessed -->
+<!-- October 28, 2020. -->
+<!-- [psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs](https://www.psychologytoday.com/us/blog/the-future-brain/202010/new-ai-trains-robots-dogs). -->
+
+<!-- Heater, Brian. **"Teaching Robots through Positive Reinforcement."** *TechCrunch*. October -->
+<!-- 26, 2020. Accessed October -->
+<!-- 28, 2020. [techcrunch.com/2020/10/26/teaching-robots-through-positive-reinforcement/](https://techcrunch.com/2020/10/26/teaching-robots-through-positive-reinforcement/). -->
   
 Rosen, Jill. **"Dog Training Methods Help JHU Teach Robots to Learn New Tricks."** The Johns
 Hopkins University Hub. The Johns Hopkins University, October
@@ -207,10 +205,10 @@ to handle the homework assignments; both were very helpful."
 
 ## Supervision
 
-`01/2020 - present`
+`01/2021 - present`
 **Max Judish**, *Johns Hopkins University*, Baltimore, MD, USA.
 
-`08/2020 - 12/2020`
+`08/2020 - present`
 **Shreya Chakraborty**, *Johns Hopkins University*, Baltimore, MD, USA.
 
 `12/2019 - 03/2020`
@@ -227,7 +225,7 @@ to handle the homework assignments; both were very helpful."
 ### Peer Review
 
 `2021`
-- \- Conference on Computer Vision and Pattern Recognition
+- \- The IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
 `2020`
 - \- Nature Scientific Data
@@ -236,6 +234,8 @@ to handle the homework assignments; both were very helpful."
 
 ### Graduate
 
+- Vision as Bayesian Inference
+- Reliable Software Systems
 - Theory of Computation
 - Parallel Programming
 - Nonlinear Optimization II
@@ -283,5 +283,5 @@ Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: November 2020<br/><br/>
+<br/>Last updated: January 2021<br/><br/>
 
