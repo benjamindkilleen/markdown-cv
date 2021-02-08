@@ -94,7 +94,7 @@ Robotics Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)).
 ## Publications
 
 My publication list is also available on [Google
-Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl). \*Asterisk indicates equal
+Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl). Asterisk (\*) indicates equal
 contribution.
 
 ### Peer-reviewed Journal Articles
@@ -206,13 +206,13 @@ to handle the homework assignments; both were very helpful."
 ## Supervision
 
 `01/2021 - present`
-**Max Judish**, *Johns Hopkins University*, Baltimore, MD, USA.
+- **Max Judish**, *Johns Hopkins University*, Baltimore, MD, USA.
 
 `08/2020 - present`
-**Shreya Chakraborty**, *Johns Hopkins University*, Baltimore, MD, USA.
+- **Shreya Chakraborty**, *Johns Hopkins University*, Baltimore, MD, USA.
 
 `12/2019 - 03/2020`
-**Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA.
+- **Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA.
 
 ## Service
 
@@ -225,7 +225,8 @@ to handle the homework assignments; both were very helpful."
 ### Peer Review
 
 `2021`
-- \- The IEEE/CVF Conference on Computer Vision and Pattern Recognition
+<!-- - \- IEEE International Conference on Computer Vision (ICCV) -->
+- \- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 `2020`
 - \- Nature Scientific Data
@@ -256,6 +257,10 @@ to handle the homework assignments; both were very helpful."
 - Scientific Visualization
 - Programming Languages
 - Networks and Distributed Systems
+- Quantum Mechanics I \& II
+- Intermediate Mechanics
+- Electronics
+- [Wizards](https://benjamindkilleen.com/posts/2020/10/how-to-hold-office-hours/)
 
 \*Graduate level.
 
@@ -267,6 +272,9 @@ to handle the homework assignments; both were very helpful."
 - IEEE Graduate Student Member
 
 ## Extracurricular
+
+In my spare time, I enjoy running, climbing, cycling, and visual art. I also pursue creative
+writing:
 
 - **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
 - **Science Fiction**: manuscript available by request.
