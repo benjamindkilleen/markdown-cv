@@ -273,8 +273,8 @@ to handle the homework assignments; both were very helpful."
 
 ## Extracurricular
 
-In my spare time, I enjoy running, climbing, cycling, and visual art. I also pursue creative
-writing:
+In my spare time, I enjoy running, climbing, cycling, and making visual art. I also write
+creatively:
 
 - **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
 - **Science Fiction**: manuscript available by request.
