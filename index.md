@@ -114,6 +114,12 @@ memory. *Nature*, vol. 558, no. 7708, p. 60, Jun. 2018. doi:
 
 ### Peer-reviewed Conference Papers
 
+`C-3`
+
+X. Liu\*, **B. D. Killeen**\*, A. Sinha, M. Ishii, G. Hager, R. Taylor, M. Unberath. Neighborhood
+Normalization for Robust Geometric Feature Learning. To appear in *The IEEE/CVF Conference on
+Computer Vision and Pattern Recognition*, 2021.
+
 `C-2`
 C. Gao, X. Liu, W. Gu, **B. D. Killeen**, M. Armand, R. Taylor, M. Unberath. Generalizing
 Spatial Transformers to Projective Geometry with Applications to 2D/3D
@@ -125,12 +131,6 @@ Correspondences using a Learned Feature Descriptor. *Proceedings of the IEEE/CVF
 Computer Vision and Pattern Recognition*, pp. 4847-4856, 2020.
 
 ### Preprints
-
-`M-3`
-
-X. Liu\*, **B. D. Killeen**\*, A. Sinha, M. Ishii, G. Hager, R. Taylor, M. Unberath. Neighborhood
-Normalization for Robust Geometric Feature Learning. Submitted to *The IEEE/CVF Conference on
-Computer Vision and Pattern Recognition*. 2021.
 
 `M-2`
 J. Y. Wu\*, **B. D. Killeen**\*, P. Nikutta, M. Thies, A. Zapaishchykova, S. Chakraborty,
