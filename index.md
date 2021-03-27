@@ -13,7 +13,7 @@ Baltimore, MD 21218, USA<br/>
 <a href="mailto:killeen@jhu.edu">killeen@jhu.edu</a>
 
 <div id="webaddress">
-  <a href="https://benjamindkilleen.com"><i class="fas fa-home"></i> benjamindkilleen.com</a> - 
+  <a href="https://benjamindkilleen.com"><i class="fas fa-home"></i> benjamindkilleen.com</a> -   
   <a href="https://arcade.cs.jhu.edu/"><i class="fas fa-users"></i> arcade.cs.jhu.edu</a> -
   <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/>
   <a href="https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl"><i class="fas fa-graduation-cap"></i> Benjamin D. Killeen</a> -
@@ -277,7 +277,7 @@ In my spare time, I enjoy running, climbing, cycling, and making visual art. I a
 creatively:
 
 - **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
-- **Science Fiction**: manuscript available by request.
+- **Science Fiction**: manuscript by request.
 
 ## Metadata
 
@@ -291,5 +291,5 @@ Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: January 2021<br/><br/>
+<br/>Last updated: March 2021<br/><br/>
 
