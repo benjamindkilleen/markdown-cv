@@ -273,7 +273,7 @@ to handle the homework assignments; both were very helpful."
 
 ## Extracurricular
 
-In my spare time, I enjoy running, climbing, cycling, and making visual art. I also write
+In my spare time, I enjoy running, climbing, and making visual art. I also write
 creatively:
 
 - **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
