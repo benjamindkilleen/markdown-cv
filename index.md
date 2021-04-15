@@ -155,8 +155,8 @@ Layers Using Analog-memory-based Hardware. 20200117986, filed March 25, 2019, an
 Dziarkach, Andrei. **"Details with Andrei Dziarkach."** *Voice of America*. November 21, 2020
 Accessed November 26, 2020. [golosameriki.com/a/detali/5671254.html](https://www.golosameriki.com/a/detali/5671254.html).
 
-BBC. **"Dog Training Technique Helps Robot Learn and Other News."** *BBC News*. October
-30, 2020. Accessed October 31, 2020. [bbc.com/news/av/technology-54645279](https://www.bbc.com/news/av/technology-54645279).
+<!-- BBC. **"Dog Training Technique Helps Robot Learn and Other News."** *BBC News*. October -->
+<!-- 30, 2020. Accessed October 31, 2020. [bbc.com/news/av/technology-54645279](https://www.bbc.com/news/av/technology-54645279). -->
 
 <!-- Rosso, Cami. **"New AI Trains Robots like Dogs."** *Psychology Today*. October 28, 2020. Accessed -->
 <!-- October 28, 2020. -->
@@ -205,16 +205,26 @@ to handle the homework assignments; both were very helpful."
 
 ## Supervision
 
+I am privileged to have worked with talented undergraduate and graduate students from a variety of
+institutions.
+
+<!-- `06/2021 - present` -->
+<!-- - **Nethra Venkatayogi**, *The University of Texas at Austin*, Austin, TX, USA. -->
+
 `01/2021 - present`
-- **Max Judish**, *Johns Hopkins University*, Baltimore, MD, USA.
+- **Max Judish**, *Brown University*, Providence, RI, USA.
 
 `08/2020 - present`
-- **Shreya Chakraborty**, *Johns Hopkins University*, Baltimore, MD, USA.
+- **[Shreya Chakraborty](https://www.linkedin.com/in/shreya-chakraborty-5aa656125)**, *Johns Hopkins
+  University*, Baltimore, MD, USA.
 
 `12/2019 - 03/2020`
-- **Philipp Nikutta**, *Johns Hopkins University*, Baltimore, MD, USA.
+- **[Philipp Nikutta](https://de.linkedin.com/in/philipp-nikutta-b978691b2)**, *Technical University
+  of Munich*, Munich, Germany.
 
 ## Service
+
+<!-- TODO: Thread, Baltimore  -->
 
 `2020 - present`
 **Graduate Student Committee Representative**, [*Laboratory for Computational Sensing and Robotics*](https://lcsr.jhu.edu/), Baltimore, MD, USA.
@@ -273,9 +283,7 @@ to handle the homework assignments; both were very helpful."
 
 ## Extracurricular
 
-In my spare time, I enjoy running, climbing, and making visual art. I also write
-creatively:
-
+In my spare time, I enjoy running, climbing, and making visual art. I also write creatively:
 - **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
 - **Science Fiction**: manuscript by request.
 
