@@ -76,6 +76,10 @@ Robotics Laboratory ([CIRL](https://cirl.lcsr.jhu.edu/)).
 
 ## Selected Honors
 
+`04/2021`
+**Best Presentation**, *[Reliable Software Systems](https://www.cs.jhu.edu/~huang/cs624/spring21/)* course,
+*Johns Hopkins University*, USA.
+
 `05/2020`
 **Best Graduate Project Award**, *[Computer Integrated Surgical Systems and Technology](http://www.cs.jhu.edu/~cis/)* course,
 *Johns Hopkins University*, USA.
@@ -205,11 +209,11 @@ to handle the homework assignments; both were very helpful."
 
 ## Supervision
 
-I am privileged to have worked with talented undergraduate and graduate students from a variety of
-institutions.
+It has been a great privilege to work closely with talented graduate and undergraduate students.
 
-<!-- `06/2021 - present` -->
-<!-- - **Nethra Venkatayogi**, *The University of Texas at Austin*, Austin, TX, USA. -->
+`05/2021 - present`
+- **[Nethra Venkatayogi](https://www.linkedin.com/in/nethra-venkatayogi-709330195/)**, *The
+  University of Texas at Austin*, Austin, TX, USA.
 
 `01/2021 - present`
 - **Max Judish**, *Brown University*, Providence, RI, USA.
