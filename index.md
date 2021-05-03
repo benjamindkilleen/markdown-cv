@@ -209,7 +209,8 @@ to handle the homework assignments; both were very helpful."
 
 ## Supervision
 
-It has been a great privilege to work closely with talented graduate and undergraduate students.
+I have supervised a number of talented masters and undergraduate students on research projects and
+theses:
 
 `05/2021 - present`
 - **[Nethra Venkatayogi](https://www.linkedin.com/in/nethra-venkatayogi-709330195/)**, *The
