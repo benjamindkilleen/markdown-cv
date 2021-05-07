@@ -18,8 +18,10 @@ Baltimore, MD 21218, USA<br/>
   <a href="https://cirl.lcsr.jhu.edu/"><i class="fas fa-users"></i> cirl.lcsr.jhu.edu</a><br/>
   <a href="https://scholar.google.com/citations?user=QX7AvxUAAAAJ&hl"><i class="fas fa-graduation-cap"></i> Benjamin D. Killeen</a> -
   <a href="https://orcid.org/0000-0003-2511-7929"><i class="ai ai-orcid"></i> 0000-0003-2511-7929</a> - 
-  <a href="https://github.com/benjamindkilleen"><i class="fab fa-github"></i> benjamindkilleen</a> - 
-  <a href="https://twitter.com/bdkilleen"><i class="fab fa-twitter"></i> @bdkilleen</a>
+  <a href="https://github.com/benjamindkilleen"><i class="fab fa-github"></i> benjamindkilleen</a><br/>
+  <a href="https://twitter.com/bdkilleen"><i class="fab fa-twitter"></i> @bdkilleen</a> -
+  <a href="https://www.linkedin.com/in/benjamindkilleen/"><i class="fab fa-linkedin"></i> benjamindkilleen</a> -
+  <a href="https://benjamindkilleen.medium.com/"><i class="fab fa-medium"></i> @benjamindkilleen</a>
 </div>
 
 ## Summary
@@ -178,6 +180,8 @@ Hopkins University Hub. The Johns Hopkins University, October
 
 <!-- Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel -->
 
+<!-- TODO: dlcamp, maybe -->
+
 ### Assistant Teaching
 
 `03/2019 - 06/2019`
@@ -281,6 +285,9 @@ theses:
 
 <!-- ## Projects -->
 
+<!-- TODO: Covid dataset, covid dashboard, deepdrr, reluble, fledge, neighborhood normalization,
+artifice, scala project (peano), jupiter (wakely) -->
+
 ## Memberships
 
 `2020 - present`
@@ -289,8 +296,8 @@ theses:
 ## Extracurricular
 
 In my spare time, I enjoy running, climbing, and making visual art. I also write creatively:
-- **Creative nonfiction**: [benjamindkilleen.com/blog](https://benjamindkilleen.com/blog)
-- **Science Fiction**: manuscript by request.
+- **Creative nonfiction**: [benjamindkilleen.medium.com](https://benjamindkilleen.medium.com)
+- **Science Fiction**: novel in progress.
 
 ## Metadata
 
@@ -304,5 +311,5 @@ Created based on [markdown-cv](https://github.com/elipapa/markdown-cv) by
 
 [MIT License](https://opensource.org/licenses/MIT).
 
-<br/>Last updated: March 2021<br/><br/>
+<br/>Last updated: May 2021<br/><br/>
 
